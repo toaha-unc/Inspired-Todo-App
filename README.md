@@ -42,8 +42,8 @@ This project implements a simple Todo List application with the ability to creat
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/toaha-unc/comp426finalproject.git
-cd comp426finalproject
+https://github.com/toaha-unc/Inspired-Todo-App.git
+cd Inspired-Todo-App
 ```
 
 2. **Install dependencies:**
