@@ -42,7 +42,7 @@ This project implements a simple Todo List application with the ability to creat
 1. **Clone the repository:**
 
 ```bash
-https://github.com/toaha-unc/Inspired-Todo-App.git
+git clone https://github.com/toaha-unc/Inspired-Todo-App.git
 cd Inspired-Todo-App
 ```
 
