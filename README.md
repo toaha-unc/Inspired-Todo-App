@@ -1,5 +1,12 @@
 ##### *COMP426 Final Project*
 
+## Video of App
+
+
+https://github.com/user-attachments/assets/2e5c1743-b804-4e39-b5fa-58096c293213
+
+
+
 # Inspired Todos
 
 Created by [Toaha Siddique](https://github.com/toaha-unc), [Keon Marcus](https://github.com/KeonM), [Evan Murray](https://github.com/evanesce345)
@@ -83,6 +90,3 @@ This command runs the backend server and frontend web application simultaneously
 - `POST /user`: Create a new user.
 - `GET /user`: Fetch a user by credentials.
 - `GET /user/:id`: Fetch a user by ID.
-
-## Presentation Video
-https://youtu.be/vicpJgWKotI
