@@ -7,7 +7,7 @@ https://github.com/user-attachments/assets/2e5c1743-b804-4e39-b5fa-58096c293213
 
 
 
-# Inspired Todos
+# Inspired Todo
 
 Created by [Toaha Siddique](https://github.com/toaha-unc), [Keon Marcus](https://github.com/KeonM), [Evan Murray](https://github.com/evanesce345)
 
