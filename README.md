@@ -1,4 +1,4 @@
-##### *COMP426 Final Project*
+##### *Inspired Todo App*
 
 ## Video of App
 
