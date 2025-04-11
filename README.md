@@ -1,4 +1,4 @@
-##### *Inspired Todo App*
+# *Inspired Todo App*
 
 ## Video of App
 
